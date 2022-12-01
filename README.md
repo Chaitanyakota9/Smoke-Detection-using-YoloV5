@@ -70,17 +70,7 @@ open terminal and enter:
                                               url
 The custom object detection will be successfully performed by the model.
 
-### Video Inference:
-
-
 ### Live Inference(Camera) on Jetson: 
-
-### Using Detect.py:
-
-
-https://user-images.githubusercontent.com/96180326/191325656-6840a258-7366-42f1-96c7-12c5400677cc.mp4
-<!--
-### Deepstream:
 
 Now let us try do deploy the model into DEEPSTREAM.
 
@@ -106,7 +96,6 @@ Run the Deepstream-app using following command:
 
         sudo deepstream-app -c _config.txt
 
--->
 ## Output:
 
 ### Image Inference:
